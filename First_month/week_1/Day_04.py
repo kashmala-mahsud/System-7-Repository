@@ -26,8 +26,6 @@ except ZeroDivisionError:
 
 # Q3. Python Modules
 
-# Q3. Python Modules
-# Use the correct relative path to where the file is stored
 f = open('D:\\System-7-Repository\\First_month\\week_1\\calculator.py', 'r') 
 content = f.read()
 print(f"Calculator Content: {content}")
