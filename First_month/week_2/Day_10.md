@@ -1,5 +1,3 @@
-# Day 3: Linear Algebra Basics
-
 ## 1. What Is Linear Algebra?
 
 Linear Algebra is a branch of mathematics that deals with vectors, matrices, and linear equations.
